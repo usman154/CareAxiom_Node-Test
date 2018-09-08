@@ -1,0 +1,15 @@
+{
+  "name": "assignment_careaxiom_nodejs",
+  "version": "1.0.0",
+  "description": "First way of doing with using basic node modules",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Usman Rana",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "request": "^2.88.0"
+  }
+}
