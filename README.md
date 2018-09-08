@@ -68,3 +68,10 @@ Tasks
 [Q]: https://github.com/kriskowal/q
 [bacon.js]: https://github.com/baconjs/bacon.js
 [RxJs]: https://github.com/Reactive-Extensions/RxJS
+
+
+Solution
+--
+
+Solution's been developed with nodejs version 6.4.0
+
